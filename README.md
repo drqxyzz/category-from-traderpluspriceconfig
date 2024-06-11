@@ -1,1 +1,1 @@
-# traderplus-category-from-pricelist
+# DayZ Category from TraderPlusPriceConfig
